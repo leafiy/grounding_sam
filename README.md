@@ -32,15 +32,15 @@ This script automates the installation of Grounded-SAM-2 and SAM2 in the WSL (Wi
 
 ## 使用方法 | Usage
 
-1. 保存脚本为 `setup_grounded_sam2.sh`
-2. 添加执行权限: `chmod +x setup_grounded_sam2.sh`
-3. 运行脚本: `./setup_grounded_sam2.sh`
+1. 保存脚本为 `setup.sh`
+2. 添加执行权限: `chmod +x setup.sh`
+3. 运行脚本: `./setup.sh`
 
 ---
 
-1. Save the script as `setup_grounded_sam2.sh`
-2. Add execution permission: `chmod +x setup_grounded_sam2.sh`
-3. Run the script: `./setup_grounded_sam2.sh`
+1. Save the script as `setup.sh`
+2. Add execution permission: `chmod +x setup.sh`
+3. Run the script: `./setup.sh`
 
 ## 脚本解决的具体问题 | Specific Issues Fixed by the Script
 
